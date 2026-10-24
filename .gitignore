@@ -1,4 +1,6 @@
 .cache/
+/reports/
+/tests/
 data/
 .venv/
 venv/
