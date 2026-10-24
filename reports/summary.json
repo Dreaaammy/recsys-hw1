@@ -1,0 +1,9 @@
+{
+  "dataset": "KuaiRand-Pure",
+  "raw_interactions": 1436609,
+  "clean_interactions": 1345596,
+  "users": 27058,
+  "items": 7314,
+  "relevant_share": 0.34076349810790163,
+  "sparsity": 0.9932007025772911
+}
